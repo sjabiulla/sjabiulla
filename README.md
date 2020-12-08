@@ -52,6 +52,11 @@
 ---
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by i.am.jabi for Kafka installation - classpath is empty](https://stackoverflow.com/questions/48390277/kafka-installation-classpath-is-empty/65107526#65107526)
+- [Answer by i.am.jabi for How to add http Headers in react js app's response](https://stackoverflow.com/questions/58233324/how-to-add-http-headers-in-react-js-apps-response/65106650#65106650)
+- [Answer by i.am.jabi for Exclude empty Hateoas "links" in the spring boot restapi response](https://stackoverflow.com/questions/63356145/exclude-empty-hateoas-links-in-the-spring-boot-restapi-response/63762929#63762929)
+- [Answer by i.am.jabi for How to pass application arguments to the spring boot app using -Dloader.main](https://stackoverflow.com/questions/63593688/how-to-pass-application-arguments-to-the-spring-boot-app-using-dloader-main/63593775#63593775)
+- [How to pass application arguments to the spring boot app using -Dloader.main](https://stackoverflow.com/questions/63593688/how-to-pass-application-arguments-to-the-spring-boot-app-using-dloader-main)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [click here to see more...][stackoverflow]
