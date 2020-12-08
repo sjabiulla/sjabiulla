@@ -1,4 +1,4 @@
-### Hey there, I'm Jabiulla Shaik - aka [JB][website] 👋
+### Hey there, I'm Jabiulla Shaik - aka [JB][website] <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 
 
 ## I'm a Husband, Developer, and Nature lover!!
@@ -36,6 +36,27 @@
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
+
+---
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][website]
+
+---
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+➡️ [click here to see more...][stackoverflow]
+
+---
+### :zap: GitHub Stats
+<img align="left" alt="Jabiulla GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sjabiulla&show_icons=true&hide_border=true" />
+
 
 [website]: https://i-am-jabi.medium.com/
 [instagram]: https://www.instagram.com/i_am_jabi/
