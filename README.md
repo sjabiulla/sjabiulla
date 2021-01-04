@@ -4,7 +4,6 @@
 ## I'm a Husband, Developer, and Nature lover!!
 
 - 🔭 I have started writing technical blogs at [Medium][website]!
-- 🌱 I’m currently learning Flutter for Mobile development
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography
