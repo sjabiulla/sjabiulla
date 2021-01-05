@@ -52,11 +52,11 @@
 ---
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by i.am.jabi for Cannot resolve PowerMockito but can PowerMockRunner](https://stackoverflow.com/questions/65406330/cannot-resolve-powermockito-but-can-powermockrunner/65577877#65577877)
+- [Answer by i.am.jabi for Issues with @Rule and PowerMockRule](https://stackoverflow.com/questions/65516919/issues-with-rule-and-powermockrule/65577772#65577772)
 - [Answer by i.am.jabi for Using PowerMockito to mock object creation](https://stackoverflow.com/questions/65573362/using-powermockito-to-mock-object-creation/65577346#65577346)
 - [Answer by i.am.jabi for Android question: How can I programmatically create a border around a textview (without using any XML)?](https://stackoverflow.com/questions/65576704/android-question-how-can-i-programmatically-create-a-border-around-a-textview/65576801#65576801)
 - [Answer by i.am.jabi for JUnit: mock a method called inside another method](https://stackoverflow.com/questions/65199598/junit-mock-a-method-called-inside-another-method/65200268#65200268)
-- [Answer by i.am.jabi for Kafka installation - classpath is empty](https://stackoverflow.com/questions/48390277/kafka-installation-classpath-is-empty/65107526#65107526)
-- [Answer by i.am.jabi for How to add http Headers in react js app's response](https://stackoverflow.com/questions/58233324/how-to-add-http-headers-in-react-js-apps-response/65106650#65106650)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [click here to see more...][stackoverflow]
