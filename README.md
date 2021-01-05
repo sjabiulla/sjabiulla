@@ -52,11 +52,11 @@
 ---
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by i.am.jabi for Using PowerMockito to mock object creation](https://stackoverflow.com/questions/65573362/using-powermockito-to-mock-object-creation/65577346#65577346)
 - [Answer by i.am.jabi for Android question: How can I programmatically create a border around a textview (without using any XML)?](https://stackoverflow.com/questions/65576704/android-question-how-can-i-programmatically-create-a-border-around-a-textview/65576801#65576801)
 - [Answer by i.am.jabi for JUnit: mock a method called inside another method](https://stackoverflow.com/questions/65199598/junit-mock-a-method-called-inside-another-method/65200268#65200268)
 - [Answer by i.am.jabi for Kafka installation - classpath is empty](https://stackoverflow.com/questions/48390277/kafka-installation-classpath-is-empty/65107526#65107526)
 - [Answer by i.am.jabi for How to add http Headers in react js app's response](https://stackoverflow.com/questions/58233324/how-to-add-http-headers-in-react-js-apps-response/65106650#65106650)
-- [Answer by i.am.jabi for Exclude empty Hateoas "links" in the spring boot restapi response](https://stackoverflow.com/questions/63356145/exclude-empty-hateoas-links-in-the-spring-boot-restapi-response/63762929#63762929)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [click here to see more...][stackoverflow]
