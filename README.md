@@ -41,10 +41,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create an amazing GitHub profile using README](https://medium.com/@i-am-jabi/create-an-amazing-github-profile-using-readme-e07584a2eb3c?source=rss-b4c46a834a74------2)
-- [Fixing “Classpath is empty.](https://medium.com/@i-am-jabi/fixing-classpath-is-empty-69288c1509a2?source=rss-b4c46a834a74------2)
-- [Best Command Prompt Tips and Tricks](https://medium.com/@i-am-jabi/best-command-prompt-tips-and-tricks-2a8d53b4870f?source=rss-b4c46a834a74------2)
-- [Few tools all Java developers can use to increase productivity](https://medium.com/@i-am-jabi/few-tools-all-java-developers-can-use-to-increase-productivity-823a9a87d585?source=rss-b4c46a834a74------2)
+- [Create an amazing GitHub profile using README](https://i-am-jabi.medium.com/create-an-amazing-github-profile-using-readme-e07584a2eb3c?source=rss-b4c46a834a74------2)
+- [Fixing “Classpath is empty.](https://i-am-jabi.medium.com/fixing-classpath-is-empty-69288c1509a2?source=rss-b4c46a834a74------2)
+- [Best Command Prompt Tips and Tricks](https://i-am-jabi.medium.com/best-command-prompt-tips-and-tricks-2a8d53b4870f?source=rss-b4c46a834a74------2)
+- [Few tools all Java developers can use to increase productivity](https://i-am-jabi.medium.com/few-tools-all-java-developers-can-use-to-increase-productivity-823a9a87d585?source=rss-b4c46a834a74------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
