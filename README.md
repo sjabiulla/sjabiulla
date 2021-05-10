@@ -1,7 +1,7 @@
 ### Hey there, I'm Jabiulla Shaik - aka [JB][website] <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 
 
-## I'm a Husband, Developer, and Nature lover!!
+## I'm a Father, Husband, Developer and Nature lover!!
 
 - 🔭 I have started writing technical blogs at [Medium][website]!
 - 👯 I'm always eager to learn and share my learning
