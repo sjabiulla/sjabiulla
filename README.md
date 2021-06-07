@@ -52,11 +52,11 @@
 ---
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Spring Output ANSI enabled doesn't work on Windows terminal](https://stackoverflow.com/questions/67867603/spring-output-ansi-enabled-doesnt-work-on-windows-terminal)
 - [javaws Heap Space error (OutOfMemoryError)](https://stackoverflow.com/questions/66792973/javaws-heap-space-error-outofmemoryerror)
 - [Answer by i.am.jabi for Unit test DAO classes with JUnit using a Connection Pool](https://stackoverflow.com/questions/66397229/unit-test-dao-classes-with-junit-using-a-connection-pool/66401743#66401743)
 - [Automation Testing for Custom Web based Chatbots](https://stackoverflow.com/questions/66367097/automation-testing-for-custom-web-based-chatbots)
 - [Answer by i.am.jabi for Cannot resolve PowerMockito but can PowerMockRunner](https://stackoverflow.com/questions/65406330/cannot-resolve-powermockito-but-can-powermockrunner/65577877#65577877)
-- [Answer by i.am.jabi for Issues with @Rule and PowerMockRule](https://stackoverflow.com/questions/65516919/issues-with-rule-and-powermockrule/65577772#65577772)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [click here to see more...][stackoverflow]
